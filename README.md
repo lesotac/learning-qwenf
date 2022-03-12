@@ -1,2 +1,2 @@
 #Learning via Youtube from gwenf
-Sample readme
+Markdown is the language of .md  learn more shortcuts like the # sign
